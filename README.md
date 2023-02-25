@@ -46,7 +46,7 @@ main();
 
 #### Example Response
 
-```json
+```js
 {
     users: [
         {
